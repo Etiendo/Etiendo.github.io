@@ -2,7 +2,6 @@
 permalink: index.html
 ---
 
-
 # Etiendo
 
 ## Je suis en formation développement web full-stack PHP 
@@ -27,3 +26,5 @@ Je suis actuellement en formation chez Simplon parce que j'ai envie de réaliser
 ## Demain
 
 Mon projet professionnel, c'est d'**articuler** ces compétences acquises avec mon parcours **d'urbaniste** afin de pouvoir proposer des projets liant numériques et services dans l'habitat à destination des populations les plus défavorisées.
+
+[Me contacter](contact.html)
