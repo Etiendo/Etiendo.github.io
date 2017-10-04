@@ -1,0 +1,13 @@
+body {
+  background-color: white;
+}
+
+p {
+  height : 60px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ebbf5a;
+  border-radius: 50px 50px 10px 10px;
+  border-bottom: solid 10px #b78848;
+}
