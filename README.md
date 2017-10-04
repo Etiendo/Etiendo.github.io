@@ -15,7 +15,7 @@ Je suis curieux de tout, assidu, mais il m'arrive d'avoir parfois du mal à gér
 
 Mon **parcours** est un peu particulier :
 
- 1. Master 2 en Urbanisme et aménagement 
+ 1. Master en Urbanisme et aménagement 
  2. Un an et demi dans la gestion de projets de réhabilitation de l'habitat
  3. Envie d'aller vers de nouvelles choses de suivre ma passion pour *l'informatique*...
 
