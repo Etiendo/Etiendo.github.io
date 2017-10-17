@@ -28,38 +28,5 @@ Je suis actuellement en formation chez Simplon parce que j'ai envie de réaliser
 
 Mon projet professionnel, c'est d'**articuler** ces compétences acquises avec mon parcours **d'urbaniste** afin de pouvoir proposer des projets liant numériques et services dans l'habitat à destination des populations les plus défavorisées.
 
-<form action="https://formspree.io/etienne_quancard@hotmail.fr" method="post">
-
-    
-    <p class="pain_haut">
-    Nom <input type="text">
-    </p>
-    
-    <p class="fromage">
-    Prénom <input type="text">
-    </p>
-     
-    <p class="oignon">
-    Adresse <input type="text">
-    </p>
-
-    
-    <p class="tomate">
-    Ville <input type="text">
-    </p>
-    
-    <p class="salade">
-    Adresse mail <input type="text">
-    </p>
-    
-    <p class="steak">
-    Numéro de téléphone <input type="text">
-    </p>
-    
-    
-Votre nom : <input type="text" name="name" value="">
-Votre message <textarea name="message"></textarea>
-<input type="submit" value="Envoyer">
-</form>
 
 [Me contacter](contact.html "Mon premier test")
